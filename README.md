@@ -1,0 +1,1 @@
+This is a real-time Project executed at site at Mayabunder, a village in Andaman & Nicobar Islands for which a reduction in time to resume power supply at mayabunder was reduced to 50 percent by using data analysis.
